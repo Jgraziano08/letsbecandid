@@ -382,7 +382,7 @@ section {
 }
 
 .back-link {
-  display: inline-block;
+  display: block;
   margin-bottom: 32px;
   font-size: 0.85rem;
   letter-spacing: 0.08em;
